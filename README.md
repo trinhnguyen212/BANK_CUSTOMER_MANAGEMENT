@@ -8,18 +8,16 @@ Visual Studio 2022.
 .NET Framework 4.7.2
 How to run the code:
 
-Clone the repository
-Go into the CustomerManager folder (the design document(Design_Document_20210631 with UML Diagram included) attached in this folder)
-Choose and click on the file “CustomerManager.sln”
-When the solution shows up, click on “Build” and then “Start” to run the code.
+- Clone the repository
+- the design document(Design_Document_20210631 with UML Diagram included) attached in this folder)
+- When the solution shows up, click on “Build” and then Start "CustomerManager" Project to run the code.
+
 Part 2 (Task 2): Create Unit Tests and Exception Handling for the Bank Account Management Application to enhance the reliability of account classes by creating unit tests and implementing exception handling for account-related operations. Requirements:
 
 Visual Studio 2022.
 .NET Framework 4.7.2.
-How to run the code:
+How to run the unit tests:
+- Choose "AccountTests" project.
+- Go to the Menu bar, choose "Test" --> "Run All Tests"
 
-Clone the repository
-Go into the BankApplication-main folder.
-Choose and click on the file “BankApplication.sln”
-When the solution shows up, click on “Build” and then “Start” to run the code.
-To run the unit tests, Choose “Test” on the Menu bar, and the choose “Run All Test” and the test explorer will appear.
+
